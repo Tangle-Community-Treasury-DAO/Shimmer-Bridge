@@ -38,8 +38,8 @@ export const TermsOfServices = observer(() => {
         <br />
         <Box typography='p2' color='text.secondary'>
           Welcome to{' '}
-          <Box component='a' href='https://shimmerbridge.org' color='primary.main' typography='p3'>
-            https://shimmerbridge.org
+          <Box component='a' href='https://shimmer-bridge.tangletreasury.org' color='primary.main' typography='p3'>
+            https://shimmer-bridge.tangletreasury.org
           </Box>{' '}
           ("Shimmer Bridge" or "Service"), a website provided by the Tangle DAO LLC ("we," "us," or
           "our"), with its registered address at P.O. Box 401, Majuro, Marshall Islands 96960,
